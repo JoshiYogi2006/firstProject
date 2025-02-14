@@ -1,2 +1,3 @@
 # firstProject
-This is my first Git Repository 
+This is my first Git Repository.
+Author = Yogesh Chandra Joshi
