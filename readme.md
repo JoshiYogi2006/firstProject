@@ -1,3 +1,3 @@
 This is my first repo.
 <br>
-Author: Yogesh Joshi.
+Author: Yogesh Chandra Joshi.
